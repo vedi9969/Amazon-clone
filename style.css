@@ -24,6 +24,9 @@
     height: 50px;
     width: 100%;
 }
+.logo:hover{
+    transform: scale(0.9);
+}
 
 .border{
     border: 1.5px solid transparent;
