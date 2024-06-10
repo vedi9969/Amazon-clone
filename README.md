@@ -6,3 +6,5 @@ The project is about building a responsive website, amazon clone using html and 
 ![image](https://github.com/vedi9969/Amazon-clone/assets/85897945/0090daf8-3e6e-4ebd-b82d-8b875930ce06)
 
 
+Website:- https://vedi9969.github.io/Amazon-clone/
+
